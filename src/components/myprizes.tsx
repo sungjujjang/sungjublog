@@ -11,6 +11,8 @@ export function MyPrizes1() {
         "Flask 기반 백엔드 웹사이트 개발 경력 4년",
         "Django 기반 백엔드 웹사이트 개발 경력 1년",
         "NodeJs 기반 프론트엔드 웹사이트 개발 경력 1년",
+        "2025 대구 영남중학교 교내 소프트웨어 경진대회 2위",
+        "2025 ICT 창업가 캠프 본선 진출(본선 진행 중)"
     ]
 
     const [prizeIndex, setPrizeIndex] = useState(0)
